@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cams-sigma-mod:honni_block"
+  }
+}

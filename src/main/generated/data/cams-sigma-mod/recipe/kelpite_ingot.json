@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:honni_ingot"
+    },
+    {
+      "item": "cams-sigma-mod:kelpite_scrap"
+    },
+    {
+      "item": "cams-sigma-mod:kelpite_scrap"
+    },
+    {
+      "item": "cams-sigma-mod:kelpite_scrap"
+    },
+    {
+      "item": "cams-sigma-mod:kelpite_scrap"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cams-sigma-mod:kelpite_ingot"
+  }
+}

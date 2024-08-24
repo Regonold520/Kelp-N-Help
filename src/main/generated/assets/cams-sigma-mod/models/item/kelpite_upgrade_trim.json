@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cams-sigma-mod:item/kelpite_upgrade_trim"
+  }
+}

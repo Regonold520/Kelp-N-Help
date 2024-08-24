@@ -1,0 +1,17 @@
+{
+  "block.cams-sigma-mod.honni_block": "Honni Block",
+  "block.cams-sigma-mod.kelpite_ore": "Kelpite Ore",
+  "item.cams-sigma-mod.compressed_kelp": "Compressed Kelp",
+  "item.cams-sigma-mod.honni_ingot": "Honni Ingot",
+  "item.cams-sigma-mod.kelpite_axe": "Kelpite Axe",
+  "item.cams-sigma-mod.kelpite_hoe": "Kelpite Hoe",
+  "item.cams-sigma-mod.kelpite_ingot": "Kelpite Ingot",
+  "item.cams-sigma-mod.kelpite_pickaxe": "Kelpite Pickaxe",
+  "item.cams-sigma-mod.kelpite_scrap": "Kelpite Scrap",
+  "item.cams-sigma-mod.kelpite_shard": "Kelpite Shard",
+  "item.cams-sigma-mod.kelpite_shovel": "Kelpite Shovel",
+  "item.cams-sigma-mod.kelpite_sword": "Kelpite Sword",
+  "item.cams-sigma-mod.kelpite_upgrade_trim": "Kelpite Upgrade Template",
+  "item.cams-sigma-mod.mega_compressed_kelp": "Mega Compressed Kelp",
+  "itemGroup.cams-sigma-mod.kelp_group": "Kelp 'N Help Items"
+}

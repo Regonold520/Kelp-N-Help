@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "cams-sigma-mod:kelpite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "cams-sigma-mod:kelpite_axe"
+  },
+  "template": {
+    "item": "cams-sigma-mod:kelpite_upgrade_trim"
+  }
+}

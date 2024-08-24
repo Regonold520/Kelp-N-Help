@@ -1,0 +1,21 @@
+{
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 0,
+      "fog_color": 2653493,
+      "water_color": 8756874,
+      "water_fog_color": 797727,
+      "grass_color": 8495158,
+      "foliage_color": 7573302
+      },
+      "spawners": {},
+      "spawn_costs": {},
+      "carvers": {},
+      "features": [
+      [
+        "minecraft:kelp_warm"
+    ]
+  ]
+}

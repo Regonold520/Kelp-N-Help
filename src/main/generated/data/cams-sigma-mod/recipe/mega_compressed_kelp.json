@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "K": {
+      "item": "cams-sigma-mod:compressed_kelp"
+    }
+  },
+  "pattern": [
+    "KKK",
+    "KKK",
+    "KKK"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cams-sigma-mod:mega_compressed_kelp"
+  }
+}

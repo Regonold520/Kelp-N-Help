@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "cams-sigma-mod",
+	"version": "${version}",
+	"name": "Cams Sigma Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/cams-sigma-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.camsicle.sigma.CamsSigmaMod"
+		],
+		"client": [
+			"com.camsicle.sigma.CamsSigmaModClient"
+		],
+		"fabric-datagen": [
+			"com.camsicle.sigma.CamsSigmaModDataGenerator"
+		]
+	},
+	"mixins": [
+		"cams-sigma-mod.mixins.json",
+		{
+			"config": "cams-sigma-mod.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

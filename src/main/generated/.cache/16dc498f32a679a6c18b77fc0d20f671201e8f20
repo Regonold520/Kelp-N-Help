@@ -1,0 +1,19 @@
+// 1.21	2024-08-07T17:22:47.8349442	Cams Sigma Mod/Model Definitions
+9a752f443f1136cfefd7d4c2d8985a681ef9de94 assets\cams-sigma-mod\models\item\mega_compressed_kelp.json
+130b1943003da46fa0694fdb9660c933825a9035 assets\cams-sigma-mod\models\item\kelpite_ingot.json
+e0636712d039bbf2c72f66add7f6cbb2f655c027 assets\cams-sigma-mod\blockstates\kelpite_ore.json
+341dbada90cebe011a5948925584e1940cc1f170 assets\cams-sigma-mod\models\item\kelpite_upgrade_trim.json
+aa6c5b2a2d47fdd64187c4c9d95e14f036900b80 assets\cams-sigma-mod\models\item\honni_ingot.json
+fbfe9f80855cecd76460bee185ce2d673919fc84 assets\cams-sigma-mod\models\item\kelpite_shard.json
+25bb730e48d8af61ed9aa25551763c2f3e775b7b assets\cams-sigma-mod\models\item\kelpite_axe.json
+77cbf1f189837d3115d11861b3c0d28e95ae97ce assets\cams-sigma-mod\models\item\kelpite_ore.json
+c9dfde10c6d603f47ca5ae8cf6b8068b4ec97840 assets\cams-sigma-mod\models\item\kelpite_hoe.json
+5bc609ef8a916b49368737d8ea813e71949fe142 assets\cams-sigma-mod\models\item\kelpite_scrap.json
+091caa000944dc69d2df7fa995b0c444bc63ba2b assets\cams-sigma-mod\models\item\honni_block.json
+095098a7c1a69728d189fa99fd06b5ad53caab7d assets\cams-sigma-mod\models\block\honni_block.json
+c11067a7a8bd9df69bed3d8581153763e6e976ed assets\cams-sigma-mod\models\item\compressed_kelp.json
+444fadd2284d7f95c7ba868d49e458e1e94f91c0 assets\cams-sigma-mod\models\block\kelpite_ore.json
+388b4cbc20603d3b3b7e51cbbe56cbe91cdc9b79 assets\cams-sigma-mod\models\item\kelpite_sword.json
+ab18503c03ac42fe36f994fbbf243e25bcdc5a55 assets\cams-sigma-mod\models\item\kelpite_pickaxe.json
+ace2018e0ef96a5e187fcfa25db44bdddb459c22 assets\cams-sigma-mod\models\item\kelpite_shovel.json
+13d2a70a5add9308f1fe8a1267b65e07d77ee89f assets\cams-sigma-mod\blockstates\honni_block.json
